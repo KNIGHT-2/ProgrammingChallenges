@@ -9,7 +9,7 @@ public class Program {
         int target = 9;
 
         System.out.println(Arrays.toString(answer(numbers, target)));
-    
+
     }
 
     static boolean isTheTarget(int n1, int n2, int target){
